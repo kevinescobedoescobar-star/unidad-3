@@ -93,7 +93,7 @@ ventana.resizable(False, False)
 # -------------------------
 try:
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    imagen = Image.open(os.path.join(BASE_DIR, "ventans2025.png"))  # Cambia por tu archivo
+    imagen = Image.open(os.path.join(BASE_DIR, "ventas2025.png"))  # Cambia por tu archivo
     imagen = imagen.resize((300, 300))  # Tamaño recomendado
     img_logo = ImageTk.PhotoImage(imagen)
 
@@ -142,3 +142,4 @@ btn_acerca.pack(pady=10)
 # -------------------------
 
 ventana.mainloop()
+
