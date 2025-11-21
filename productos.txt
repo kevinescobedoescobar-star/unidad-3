@@ -1,0 +1,6 @@
+1|camisa roja|150|camiseta de hombre
+2|vestido|600|dama
+3|camisa chica|50|niño
+3|camisa pequeña|50|kids
+4|tenis|300|calzado
+5|cachucha|250|cabeza
