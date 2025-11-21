@@ -1,3 +1,9 @@
+#Kevin Alejandro Escobedo Escobar
+#cbtis89
+#Programacio 3°b
+#proyecto: punto de ventas
+
+
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
@@ -134,4 +140,5 @@ btn_acerca.pack(pady=10)
 # -------------------------
 # INICIO DE LA APP
 # -------------------------
+
 ventana.mainloop()
